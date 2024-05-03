@@ -1,0 +1,8 @@
+# config.toml
+[postgresql]
+host = "localhost"
+port = 5432
+username = "username" # set  username
+password = "pass" # set password
+database = "aqs_airdata" # set database name
+

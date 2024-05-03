@@ -1,0 +1,57 @@
+2024-04-27 13:11:38 - INFO - Loaded 20158 rows for state Alabama. Total rows loaded: 20158
+2024-04-27 13:11:45 - INFO - Loaded 2825 rows for state Alaska. Total rows loaded: 22983
+2024-04-27 13:12:43 - INFO - Loaded 63380 rows for state Arizona. Total rows loaded: 86363
+2024-04-27 13:13:03 - INFO - Loaded 10903 rows for state Arkansas. Total rows loaded: 97266
+2024-04-27 13:16:21 - INFO - Loaded 225309 rows for state California. Total rows loaded: 322575
+2024-04-27 13:17:22 - INFO - Loaded 59953 rows for state Colorado. Total rows loaded: 382528
+2024-04-27 13:17:35 - INFO - Loaded 12479 rows for state Connecticut. Total rows loaded: 395007
+2024-04-27 13:17:46 - INFO - Loaded 5386 rows for state Delaware. Total rows loaded: 400393
+2024-04-27 13:17:53 - INFO - Loaded 3650 rows for state District Of Columbia. Total rows loaded: 404043
+2024-04-27 13:18:56 - INFO - Loaded 81256 rows for state Florida. Total rows loaded: 485299
+2024-04-27 13:19:16 - INFO - Loaded 19589 rows for state Georgia. Total rows loaded: 504888
+2024-04-27 13:19:21 - INFO - Loaded 2837 rows for state Hawaii. Total rows loaded: 507725
+2024-04-27 13:19:29 - INFO - Loaded 5790 rows for state Idaho. Total rows loaded: 513515
+2024-04-27 13:19:59 - INFO - Loaded 36671 rows for state Illinois. Total rows loaded: 550186
+2024-04-27 13:20:52 - INFO - Loaded 55082 rows for state Indiana. Total rows loaded: 605268
+2024-04-27 13:21:26 - INFO - Loaded 24371 rows for state Iowa. Total rows loaded: 629639
+2024-04-27 13:21:40 - INFO - Loaded 12737 rows for state Kansas. Total rows loaded: 642376
+2024-04-27 13:22:13 - INFO - Loaded 30613 rows for state Kentucky. Total rows loaded: 672989
+2024-04-27 13:22:45 - INFO - Loaded 31695 rows for state Louisiana. Total rows loaded: 704684
+2024-04-27 13:23:04 - INFO - Loaded 16710 rows for state Maine. Total rows loaded: 721394
+2024-04-27 13:23:24 - INFO - Loaded 23337 rows for state Maryland. Total rows loaded: 744731
+2024-04-27 13:23:49 - INFO - Loaded 25789 rows for state Massachusetts. Total rows loaded: 770520
+2024-04-27 13:24:17 - INFO - Loaded 31307 rows for state Michigan. Total rows loaded: 801827
+2024-04-27 13:24:36 - INFO - Loaded 17714 rows for state Minnesota. Total rows loaded: 819541
+2024-04-27 13:24:48 - INFO - Loaded 10669 rows for state Mississippi. Total rows loaded: 830210
+2024-04-27 13:25:24 - INFO - Loaded 43060 rows for state Missouri. Total rows loaded: 873270
+2024-04-27 13:25:36 - INFO - Loaded 11510 rows for state Montana. Total rows loaded: 884780
+2024-04-27 13:25:47 - INFO - Loaded 4779 rows for state Nebraska. Total rows loaded: 889559
+2024-04-27 13:26:16 - INFO - Loaded 35832 rows for state Nevada. Total rows loaded: 925391
+2024-04-27 13:26:29 - INFO - Loaded 13200 rows for state New Hampshire. Total rows loaded: 938591
+2024-04-27 13:26:49 - INFO - Loaded 21057 rows for state New Jersey. Total rows loaded: 959648
+2024-04-27 13:27:20 - INFO - Loaded 29089 rows for state New Mexico. Total rows loaded: 988737
+2024-04-27 13:27:54 - INFO - Loaded 38605 rows for state New York. Total rows loaded: 1027342
+2024-04-27 13:28:41 - INFO - Loaded 38858 rows for state North Carolina. Total rows loaded: 1066200
+2024-04-27 13:28:55 - INFO - Loaded 12635 rows for state North Dakota. Total rows loaded: 1078835
+2024-04-27 13:29:39 - INFO - Loaded 51237 rows for state Ohio. Total rows loaded: 1130072
+2024-04-27 13:30:01 - INFO - Loaded 25089 rows for state Oklahoma. Total rows loaded: 1155161
+2024-04-27 13:30:12 - INFO - Loaded 7860 rows for state Oregon. Total rows loaded: 1163021
+2024-04-27 13:30:57 - INFO - Loaded 54632 rows for state Pennsylvania. Total rows loaded: 1217653
+2024-04-27 13:31:03 - INFO - Loaded 3784 rows for state Rhode Island. Total rows loaded: 1221437
+2024-04-27 13:31:21 - INFO - Loaded 17634 rows for state South Carolina. Total rows loaded: 1239071
+2024-04-27 13:31:31 - INFO - Loaded 10060 rows for state South Dakota. Total rows loaded: 1249131
+2024-04-27 13:31:53 - INFO - Loaded 24107 rows for state Tennessee. Total rows loaded: 1273238
+2024-04-27 13:33:16 - INFO - Loaded 102809 rows for state Texas. Total rows loaded: 1376047
+2024-04-27 13:33:55 - INFO - Loaded 41843 rows for state Utah. Total rows loaded: 1417890
+2024-04-27 13:34:15 - INFO - Loaded 4331 rows for state Vermont. Total rows loaded: 1422221
+2024-04-27 13:34:41 - INFO - Loaded 26637 rows for state Virginia. Total rows loaded: 1448858
+2024-04-27 13:34:54 - INFO - Loaded 12305 rows for state Washington. Total rows loaded: 1461163
+2024-04-27 13:35:10 - INFO - Loaded 9533 rows for state West Virginia. Total rows loaded: 1470696
+2024-04-27 13:35:33 - INFO - Loaded 28195 rows for state Wisconsin. Total rows loaded: 1498891
+2024-04-27 13:36:15 - INFO - Loaded 35763 rows for state Wyoming. Total rows loaded: 1534654
+2024-04-27 13:36:17 - WARNING - No data available for state Guam.
+2024-04-27 13:36:22 - INFO - Loaded 1228 rows for state Puerto Rico. Total rows loaded: 1535882
+2024-04-27 13:36:24 - WARNING - No data available for state Virgin Islands.
+2024-04-27 13:36:29 - INFO - Loaded 1879 rows for state Country Of Mexico. Total rows loaded: 1537761
+2024-04-27 13:36:31 - ERROR - API request failed with status code: 400
+2024-04-27 13:36:31 - WARNING - No data available for state Canada.
